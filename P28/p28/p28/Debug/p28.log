@@ -1,0 +1,5 @@
+﻿  mian.c
+d:\程式設計\第五次作業\hw\p28\source\mian.c(21): warning C4047: '函式': 'int' 與 'int [5]' 間接取值的層級不同
+d:\程式設計\第五次作業\hw\p28\source\mian.c(21): warning C4024: 'modifyArray': 型式和實質參數 1 不同的類型
+d:\程式設計\第五次作業\hw\p28\source\mian.c(37): warning C4028: 型式參數 1 與來自宣告的不同
+  p28.vcxproj -> D:\程式設計\第五次作業\hw\P28\p28\Debug\p28.exe
